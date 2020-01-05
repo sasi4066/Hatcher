@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hatcher</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">Tap anywhere to start Hatching!</string>
+    <string name="stop">Tap anywhere to stop</string>
+</resources>
